@@ -87,4 +87,14 @@
 .page__footer p {
   color: #2b2b2b;  /* dark readable text */
 }
+/* Fix masthead "hole": force all masthead children to use the masthead bg */
+.masthead,
+.masthead * {
+  background-color: var(--global-masthead-bg-color, var(--global-bg-color)) !important;
+}
 
+/* Some elements use background (shorthand) instead of background-color */
+.masthead,
+.masthead * {
+  background: var(--global-masthead-bg-color, var(--global-bg-color)) !important;
+}
