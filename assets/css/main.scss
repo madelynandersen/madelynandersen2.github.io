@@ -41,3 +41,43 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Outside the Office split layout */
+.fun-split {
+  display: grid;
+  grid-template-columns: minmax(240px, 380px) 1fr;
+  gap: 56px;
+  align-items: center;
+  margin-top: 1.5rem;
+}
+
+.fun-photo {
+  margin: 0;
+}
+
+.fun-photo img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 18px;
+  border: 6px solid #2f333a;          /* dark frame like your screenshot */
+  box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+}
+
+.fun-text p {
+  font-size: 1.45rem;                 /* big readable type */
+  line-height: 1.65;
+  margin: 0;
+  color: inherit;
+}
+
+/* Mobile stack */
+@media (max-width: 900px) {
+  .fun-split {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+  .fun-text p {
+    font-size: 1.15rem;
+  }
+}
