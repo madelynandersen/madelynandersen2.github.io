@@ -22,7 +22,7 @@ repository               : "madelynandersen/madelynandersen2.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "assets/images/headshot.jpeg"   # recommended path; see note below
+  avatar           : "images/headshot.jpeg"   # recommended path; see note below
   name             : "Madelyn Andersen"
   pronouns         : "she/her"
   bio              : |
