@@ -15,8 +15,8 @@ name                     : &name "Madelyn Andersen"
 description              : &description "Madelyn Andersen's academic portfolio"
 
 # For a username.github.io site:
-url                      : "https://madelynandersen.github.io/madelynandersen2.github.io"
-baseurl                  : ""  # must be empty for username.github.io
+url                      : "https://madelynandersen.github.io"
+baseurl                  : "/madelynandersen2.github.io"  # must be empty for username.github.io
 repository               : "madelynandersen/madelynandersen2.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
