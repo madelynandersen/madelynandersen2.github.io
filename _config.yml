@@ -23,7 +23,7 @@ repository               : "madelynandersen/madelynandersen2.github.io"
 author:
   # Biographic information
   avatar           : "/images/headshot.jpeg"   # recommended path; see note below
-  name             : "Madelyn Andersen"
+  name             : "Madelyn Andersen, MSc"
   pronouns         : "she/her"
   bio              : |
     I’m a PhD student in Bayesian Statistics in
@@ -32,9 +32,9 @@ author:
     <a href="https://www.mit.edu" target="_blank" rel="noopener">MIT</a>, working on variational inference,
     robustness, and probabilistic modeling.
   location         : "Cambridge, MA, USA"
-  employer         : "Massachusetts Institute of Technology"
+  employer         : "MIT"
   uri              : ""  # URL (leave blank string if none)
-  email            : "madelyna@mit.edu"
+  email            : "madelyna[at]mit[dot]edu"
 
   # Academic websites
   # academia         : ""
