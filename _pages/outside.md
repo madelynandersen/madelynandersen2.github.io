@@ -5,11 +5,7 @@ layout: single
 author_profile: true
 ---
 
-<div class="fun-split">
-  <figure class="fun-photo">
-    <img src="{{ '/images/dog_photo_wild.png' | relative_url }}" alt="Madelyn with Winnie (silver standard poodle)" loading="lazy">
-  </figure>
-
+<div class="fun-split fun-split--right">
   <div class="fun-text">
     <p>
       Outside of my research pursuits, I’m a competitive dog sports trainer and an avid ballroom dancer.
@@ -18,5 +14,10 @@ author_profile: true
       or running an agility course, I believe in bringing a spirit of curiosity and enthusiasm to everything I do.
     </p>
   </div>
-</div>
 
+  <figure class="fun-photo">
+    <img src="{{ '/images/dog_photo_wild.png' | relative_url }}"
+         alt="Madelyn with Winnie (silver standard poodle)"
+         loading="lazy">
+  </figure>
+</div>
