@@ -21,3 +21,21 @@ author_profile: true
          loading="lazy">
   </figure>
 </div>
+
+## Ballroom dancing
+
+<div class="fun-split">
+
+<div class="fun-text">
+
+I’ve trained and competed in ballroom dance since September of 2022. Dancing gives me the same things that research does: structure, creativity, iteration, and flow. It’s also how I reset after long days of debugging or derivations.
+
+</div>
+
+<div class="fun-photo">
+
+<img src="{{ '/images/dancing.gif' | relative_url }}" alt="Madelyn ballroom dancing" />
+
+</div>
+
+</div>
