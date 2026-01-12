@@ -63,9 +63,10 @@
 }
 
 .fun-text p {
-  font-size: 1.45rem;
-  line-height: 1.65;
+  font-size: inherit;     /* inherit theme paragraph size */
+  line-height: inherit;   /* let theme control leading */
   margin: 0;
+  color: inherit;
 }
 
 /* Mobile: stack, and put photo above text (optional) */
