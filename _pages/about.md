@@ -1,13 +1,16 @@
 ---
+permalink: /
 title: "About"
-permalink: /about/
-layout: single
+excerpt: "About"
 author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
 ## About me
 
-I earned a B.S. in Theoretical Mathematics from Harvey Mudd College, with a focus on ring theory, along with a dance concentration. I then completed an M.S. at MIT and am currently a PhD candidate at MIT.
+I earned a B.S. in Theoretical Mathematics from [Harvey Mudd College](https://www.hmc.edu/mathematics/), with a focus on ring theory, along with a dance concentration. I then completed an M.S. at [MIT](https://web.mit.edu/) and am currently a PhD candidate at MIT in [LIDS](https://lids.mit.edu/), working in [Tamara Broderick](https://tamarabroderick.com/)'s group.
 
 ## Current research interests
 
