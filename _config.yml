@@ -12,79 +12,78 @@ site_theme               : "sunrise" # The available themes options are "default
 title                    : "Madelyn Andersen's Website"
 title_separator          : "-"
 name                     : &name "Madelyn Andersen"
-description              : &description "Madelyn Andersen's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://madelynandersen.github.io/madelynandersen2.github.io 
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+description              : &description "Madelyn Andersen's academic portfolio"
+
+# For a username.github.io site:
+url                      : "https://madelynandersen.github.io/madelynandersen2.github.io"
+baseurl                  : ""  # must be empty for username.github.io
 repository               : "madelynandersen/madelynandersen2.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.jpeg"
+  avatar           : "assets/images/headshot.jpeg"   # recommended path; see note below
   name             : "Madelyn Andersen"
-  pronouns         : "she/her"  
-  bio: |
-  I’m a PhD student in Bayesian Statistics in
-  <a href="https://tamarabroderick.com/" target="_blank" rel="noopener">Tamara Broderick</a>'s group
-  within <a href="https://lids.mit.edu/" target="_blank" rel="noopener">LIDS</a> at
-  <a href="https://www.mit.edu" target="_blank" rel="noopener">MIT</a>, working on variational inference,
-  robustness, and probabilistic modeling.
+  pronouns         : "she/her"
+  bio              : |
+    I’m a PhD student in Bayesian Statistics in
+    <a href="https://tamarabroderick.com/" target="_blank" rel="noopener">Tamara Broderick</a>'s group
+    within <a href="https://lids.mit.edu/" target="_blank" rel="noopener">LIDS</a> at
+    <a href="https://www.mit.edu" target="_blank" rel="noopener">MIT</a>, working on variational inference,
+    robustness, and probabilistic modeling.
   location         : "Cambridge, MA, USA"
   employer         : "Massachusetts Institute of Technology"
-  uri              : # URL
-  email            : "madelyna[at]mit[dot]edu" 
+  uri              : ""  # URL (leave blank string if none)
+  email            : "madelyna@mit.edu"
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  academia         : ""
+  arxiv            : ""
   googlescholar    : "https://scholar.google.com/"
-  inspire-hep      : # URL
-  impactstory      : # URL
+  inspire-hep      : ""
+  impactstory      : ""
   orcid            : "https://orcid.org/0000-0002-6056-8103"
-  semantic         : # URL
-  ssrn             : # URL
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
-
+  semantic         : ""
+  ssrn             : ""
+  researchgate     : ""
+  scopus           : ""
+  zotero           : ""
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+  bitbucket        : ""
+  codepen          : ""
+  dribbble         : ""
   github           : "madelynandersen"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : ""
+  stackoverflow    : ""
 
   # Social media
-  artstation       : # Username
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
+  artstation       : ""
+  bluesky          : ""
+  facebook         : ""
+  flickr           : ""
+  foursquare       : ""
+  goodreads        : ""
+  google_plus      : ""
+  keybase          : ""
+  instagram        : ""
+  lastfm           : ""
   linkedin         : "madelynandersen"
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  mastodon         : ""
+  medium           : ""
+  pinterest        : ""
+  soundcloud       : ""
+  steam            : ""
+  telegram         : ""
+  tumblr           : ""
+  twitter          : ""
+  vine             : ""
+  weibo            : ""
+  wikipedia        : ""
+  xing             : ""
+  youtube          : ""
+  zhihu            : ""
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
