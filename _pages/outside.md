@@ -28,7 +28,7 @@ author_profile: true
 
 <div class="fun-text">
 
-I’ve trained and competed in ballroom dance since September of 2022. Dancing gives me the same things that research does: structure, creativity, iteration, and flow. It’s also how I reset after long days of debugging or derivations.
+I’ve trained and competed in ballroom dance since September 2022 when I joined the [MIT Ballroom Dance Team](https://ballroom.mit.edu/). Dancing gives me the same things that research does: structure, creativity, independent work, and flow. Music and staying active play a large part in my life. When I'm not dancing in the evening, you can find me running with my dog, doing yoga, or in the gym.
 
 </div>
 
