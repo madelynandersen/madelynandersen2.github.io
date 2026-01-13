@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my <a href="files/Andersen_CV.pdf" target="_blank" rel="noopener">CV</a> for detailed information on my academic and professional background.
+You can download my <a href="{{ '/files/Andersen_CV.pdf' | relative_url }}" target="_blank" rel="noopener">CV</a> for detailed information on my academic and professional background.
 
 Education
 ======
