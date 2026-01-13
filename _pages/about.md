@@ -13,3 +13,5 @@ I earned a B.S. in Theoretical Mathematics from [Harvey Mudd College](https://ww
 ## Current research interests
 
 My research focuses on improving variational inference methods. I use techniques from machine learning, probabilistic programming, and statistical theory to bridge the gap between abstract theory and practical application.
+
+I'm currently thinking about variational inference, normalizing flows, and simulation based inference.
