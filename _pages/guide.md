@@ -3,8 +3,6 @@ title: "Guide"
 permalink: /guide/
 layout: single
 author_profile: true
-redirect_from:
-  - /guide/
 ---
 
 ## What this page is
