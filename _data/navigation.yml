@@ -14,5 +14,5 @@ main:
   - title: "Outside the Office"
     url: /outside/
 
-  - title: "Guide"
-    url: /guide/
+  # - title: "Guide"
+  #   url: /guide/
